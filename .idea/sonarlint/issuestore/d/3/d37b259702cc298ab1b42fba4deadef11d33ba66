@@ -1,0 +1,13 @@
+
+r	java:S106"+Replace this use of System.out by a logger.(‹µ‹¶ıÿÿÿÿ8Ì‡åªƒ2J$7eea6deb-4fed-4fd3-9a3a-50b318493226
+r	java:S106"+Replace this use of System.out by a logger.(ŞÒ—üÿÿÿÿ8Í‡åªƒ2J$95147606-c9e3-43bb-be2c-4cf966cd11c6
+m	java:S106"+Replace this use of System.out by a logger.(×•œ²8€Ş¬ƒ2J$b046c50c-e050-423d-bc58-48fbe1c84308
+}	java:S125"<This block of commented-out lines of code should be removed.(í¯¸f8Ï‡åªƒ2J$643b00ea-38f0-4b60-8c9b-5c913a2d42bc
+€
+java:S1854#"=Remove this useless assignment to local variable "spaceSize".(ÆìÂÌ8’ÜĞ«ƒ2J$bcb9cae6-b448-4c70-9b7d-21e7ab2a5bc4
+q
+java:S1481#".Remove this unused "spaceSize" local variable.(ÆìÂÌ8”ÜĞ«ƒ2J$8d4a98a8-33d3-4d20-9526-24530afa9d58
+ƒ	java:S125,"<This block of commented-out lines of code should be removed.(éØ»Úûÿÿÿÿ8›ÜĞ«ƒ2J$aebcf615-9fe8-4731-9085-52bb79413e01
+ƒ	java:S1250"<This block of commented-out lines of code should be removed.(éØ»Úûÿÿÿÿ8›ÜĞ«ƒ2J$5e6d9070-a61b-4c21-b208-9f32b9db4323
+r	java:S1065"+Replace this use of System.out by a logger.(”ôÙŸúÿÿÿÿ8œÜĞ«ƒ2J$23962170-8cab-4fe2-b9d4-b4c52ee74dda
+r	java:S1067"+Replace this use of System.out by a logger.(”ôÙŸúÿÿÿÿ8œÜĞ«ƒ2J$cbc87097-b67c-4eec-ace7-165eb54669a6

@@ -7,3 +7,29 @@
 # Datasource local storage ignored files
 /dataSources/
 /dataSources.local.xml
+# IntelliJ IDEA specific files
+.idea/
+*.iml
+*.iws
+## Compiled source
+#*.class
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.swp
+
+## Build directories
+#out/
+#target/
+
+## Dependency directories
+#node_modules/
+#vendor/
+
+# Specific files
+git_toolbox_prj.xml
+index.pb
+PawSQLSettingsPlugin.xml

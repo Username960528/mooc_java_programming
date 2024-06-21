@@ -1,8 +1,0 @@
-
-|
-java:S2130"9Use "Integer.parseInt" for this string-to-int conversion.(˜ùí‡8¶ «µƒ2J$631221c8-5215-4a6c-b40c-f13ab120f1bb
-r	java:S106"+Replace this use of System.out by a logger.(ŞÒ—üÿÿÿÿ8· «µƒ2J$ec7332a1-33e0-4861-950e-f6b2e4736f38
-r	java:S106"+Replace this use of System.out by a logger.(íêßÆüÿÿÿÿ8¸ «µƒ2J$abb0ed03-92f4-4b74-a6b1-f6dd9ad0a3ff
-
-java:S2130"9Use "Integer.parseInt" for this string-to-int conversion.(£Ú¨Àúÿÿÿÿ8¸ «µƒ2J$df50dbbb-7e02-4b64-8df3-8a41de2ced13
-m	java:S106"+Replace this use of System.out by a logger.(”¢ÖÑ8º «µƒ2J$50aeed6f-db32-4adf-8a62-54a62d90a38e

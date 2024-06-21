@@ -1,12 +1,0 @@
-
-\
-java:S1854":Remove this useless assignment to local variable "search".(Ìž‘ÿùÿÿÿÿ8‡›„·ƒ2
-[
-java:S2130"9Use "Integer.parseInt" for this string-to-int conversion.(úÿÇ‘øÿÿÿÿ8Ž›„·ƒ2
-M
-java:S1481"+Remove this unused "search" local variable.(Ìž‘ÿùÿÿÿÿ8”›„·ƒ2
-F	java:S106"+Replace this use of System.out by a logger.(þìƒ8•›„·ƒ2
-X	java:S125"<This block of commented-out lines of code should be removed.(Ÿ¨ñÚ8•›„·ƒ2
-X	java:S125 "<This block of commented-out lines of code should be removed.(ÿ²›Ð8–›„·ƒ2
-G	java:S106%"+Replace this use of System.out by a logger.(ã§“Ù8–›„·ƒ2
-X	java:S125&"<This block of commented-out lines of code should be removed.(ÄüòÑ8–›„·ƒ2

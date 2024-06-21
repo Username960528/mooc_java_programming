@@ -1,7 +1,0 @@
-
-”	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(Æû”æøÿÿÿÿ8× Ï†ƒ2J$4c2c9d2d-d79f-45e8-8a8a-1e508f83b645
-ƒ
-java:S1854";Remove this useless assignment to local variable "scanner".(ù ƒ‘üÿÿÿÿ8Ù Ï†ƒ2J$d65795ab-6898-4bce-965f-eca6daa7f992
-t
-java:S1481",Remove this unused "scanner" local variable.(ù ƒ‘üÿÿÿÿ8Ü Ï†ƒ2J$ea1394ce-7663-49c8-9f76-ae02faae5d74
-ƒ	java:S125"<This block of commented-out lines of code should be removed.(õßÓ«øÿÿÿÿ8Ý Ï†ƒ2J$bf4e3903-4d3d-4dbb-966b-98676b8d25a6

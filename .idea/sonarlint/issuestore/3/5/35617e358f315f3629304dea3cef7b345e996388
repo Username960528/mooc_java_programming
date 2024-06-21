@@ -1,12 +1,12 @@
 
-m	java:S106"+Replace this use of System.out by a logger.(öšÕœ8æ•Šƒƒ2J$1ab4d1be-e1b7-4adf-94d5-9ab642e69028
+m	java:S106"+Replace this use of System.out by a logger.(öšÕœ8æ•Šƒƒ2J$23cb932f-f1a6-476f-8683-1ffa207d13b8
 
-java:S2130"9Use "Integer.parseInt" for this string-to-int conversion.(úÿÇ‘øÿÿÿÿ8æ•Šƒƒ2J$3d6fe8c4-e4a6-4f23-8fac-db87a26528ba
-r	java:S106"+Replace this use of System.out by a logger.(¶«½‚üÿÿÿÿ8ç•Šƒƒ2J$9ff74864-aab4-4fc1-8f61-19256736b99a
-r	java:S106"+Replace this use of System.out by a logger.(ÜÇçˆÿÿÿÿÿ8ç•Šƒƒ2J$0a82c34b-4e31-499a-9f87-2638aa97edb5
-r	java:S106"+Replace this use of System.out by a logger.(ÿï·ğşÿÿÿÿ8ç•Šƒƒ2J$5a66d464-ef59-4301-8206-b676784c2a6d
-r	java:S106"+Replace this use of System.out by a logger.(äÇÛŞúÿÿÿÿ8ç•Šƒƒ2J$c5c737c4-adcb-4d99-b154-687b0cb5a9c1
-m	java:S106"+Replace this use of System.out by a logger.(¸¿8ç•Šƒƒ2J$0a018967-2976-48a0-8817-1fac66eb6bf8
-m	java:S106"+Replace this use of System.out by a logger.(Ú­´¶8ç•Šƒƒ2J$37494130-fc09-460e-ac3d-b012e592f9e8
-ƒ	java:S125$"<This block of commented-out lines of code should be removed.(šòğ©úÿÿÿÿ8ˆ´ƒƒ2J$56ad7e3b-0783-4e02-a645-e5e8e53af002
-r	java:S106'"+Replace this use of System.out by a logger.(öÒª³ÿÿÿÿÿ8è•Šƒƒ2J$a2de3359-f17f-44cb-9bdf-ab2484124cc7
+java:S2130"9Use "Integer.parseInt" for this string-to-int conversion.(úÿÇ‘øÿÿÿÿ8æ•Šƒƒ2J$6b96d105-296b-4c36-89bc-696927436c24
+r	java:S106"+Replace this use of System.out by a logger.(¶«½‚üÿÿÿÿ8ç•Šƒƒ2J$104f50f8-7592-4aee-9846-841f18e7ed7e
+r	java:S106"+Replace this use of System.out by a logger.(ÜÇçˆÿÿÿÿÿ8ç•Šƒƒ2J$a398eefb-ab9d-499f-b005-22700d87cd29
+r	java:S106"+Replace this use of System.out by a logger.(ÿï·ğşÿÿÿÿ8ç•Šƒƒ2J$27cee382-0bee-4103-acdb-61cff29108b9
+r	java:S106"+Replace this use of System.out by a logger.(äÇÛŞúÿÿÿÿ8ç•Šƒƒ2J$5eefb1b3-28e4-464a-9bb5-f30c5aed3cca
+m	java:S106"+Replace this use of System.out by a logger.(¸¿8ç•Šƒƒ2J$5136e815-f87e-4807-9c94-a51d4f13e517
+m	java:S106"+Replace this use of System.out by a logger.(Ú­´¶8ç•Šƒƒ2J$531195c0-9bc1-4a62-a106-eb40898d187b
+ƒ	java:S125$"<This block of commented-out lines of code should be removed.(šòğ©úÿÿÿÿ8ˆ´ƒƒ2J$05aaa748-fadf-43c8-9c69-61f7696ab0fb
+r	java:S106'"+Replace this use of System.out by a logger.(öÒª³ÿÿÿÿÿ8è•Šƒƒ2J$41b08568-ed48-4bdc-9644-5a22af93872e

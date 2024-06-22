@@ -21,11 +21,11 @@ public class MaxNumber {
                 System.out.println("Odd: " + odd);
                 break;
             }
-            if (numbers != -1) {
+
                 sum += numbers;
                 count += 1;
                 average = 1.0 * sum / count;
-            }
+
 
             if (numbers % 2 == 0) {
                 even += 1;
@@ -33,7 +33,7 @@ public class MaxNumber {
                 odd += 1;
             }
         }
-//        greet();
+//
         }
     public static void greet() {
         System.out.println("Greetings!");

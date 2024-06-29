@@ -18,18 +18,6 @@ public class SportStatistics {
         int gamesCount = 0;
         int wins = 0;
         int loses = 0;
-//        for (Match match : records) {
-//            if (match.getHomeTeam().equals(teamName) || match.getVisitingTeam().equals(teamName)) {
-//                gamesCount++;  // Считаем все игры заданной команды
-//                if (match.getHomeTeam().equals(teamName) && match.getHomeTeamPoints() > match.getVisitingTeamsPoints()) {
-//                    wins++;  // Считаем победы, когда команда дома и выиграла
-//                } else if (match.getVisitingTeam().equals(teamName) && match.getVisitingTeamsPoints() > match.getHomeTeamPoints()) {
-//                    wins++;  // Считаем победы, когда команда в гостях и выиграла
-//                } else {
-//                    loses++;  // Во всех остальных случаях - поражение
-//                }
-//            }
-//        }
         for (Match match : records) {
             if (match.getHomeTeam().equals(teamName) || match.getVisitingTeam().equals(teamName)) {
                 gamesCount++;  // Подсчет игр команды

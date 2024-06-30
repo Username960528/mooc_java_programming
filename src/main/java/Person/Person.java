@@ -2,24 +2,23 @@ package Person;
 
 public class Person {
     private String name;
-    private int age;
+    private SimpleDate birthday;
+    private int height;
+    private int weight;
 
-    public Person(String initialName) {
-        this.age = 0;
-        this.name = initialName;
+    // Конструктор
+    public Person(String name, int day, int month, int year) {
+        this.name = name;
+        this.birthday = new SimpleDate(day, month, year);
+        // Высота и вес инициализируются по умолчанию
     }
 
-    public void printPerson() {
-        System.out.println(this.name + ", age " + this.age + " years");
+    // Геттеры
+    public String getName() { return name; }
+    public SimpleDate getBirthday() { return birthday; }
 
-    }
-
-    // growOlder() method has been added
-    public void growOlder() {
-        this.age = this.age + 1;
-    }
-
-    public void makeNervous() {
-        this.age = this.age - 1;
+    // Метод для сравнения возраста
+    public boolean olderThan(Person compared) {
+        return this.birthday.before(compared.getBirthday());
     }
 }

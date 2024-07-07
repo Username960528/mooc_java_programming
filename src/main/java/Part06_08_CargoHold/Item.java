@@ -4,9 +4,9 @@ package Part06_08_CargoHold;
 public class Item {
 
     private String name;
-    private int weight;
+    private double weight;
 
-    public Item(String name, int weight) {
+    public Item(String name, double weight) {
         this.name = name;
         this.weight = weight;
     }
@@ -15,7 +15,7 @@ public class Item {
         return this.name;
     }
 
-    public int getWeight() {
+    public double getWeight() {
         return this.weight;
     }
 

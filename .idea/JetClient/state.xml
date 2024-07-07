@@ -1,6 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="JetClientState">
+    <option name="draftsState">
+      <draftsState>
+        <option name="requests">
+          <list>
+            <requestState>
+              <option name="id" value="e4a5f142-90a3-43d2-a1de-5bb8b1025721" />
+              <option name="method" value="GET" />
+              <option name="name" value="Draft" />
+              <option name="sortWeight" value="1000000" />
+            </requestState>
+            <requestState>
+              <option name="id" value="a65842d8-3aeb-47aa-a18c-d8fc9cc82e1a" />
+              <option name="method" value="GET" />
+              <option name="name" value="Draft (1)" />
+              <option name="sortWeight" value="2000000" />
+            </requestState>
+          </list>
+        </option>
+      </draftsState>
+    </option>
     <option name="id" value="ab9fa584-1480-4900-be12-24bc9682048c" />
     <option name="version" value="3" />
   </component>

@@ -7,9 +7,9 @@ import java.util.ArrayList;
 public class Suitcase {
 
     private ArrayList<Item> items;
-    private int maxWeight;
+    private double maxWeight;
 
-    public Suitcase(int maxWeight) {
+    public Suitcase(double maxWeight) {
         this.items = new ArrayList<>();
         this.maxWeight = maxWeight;
     }
@@ -20,8 +20,8 @@ public class Suitcase {
         }
     }
 
-    public int totalWeight() {
-        int totalWeight = 0;
+    public double totalWeight() {
+        double totalWeight = 0;
         for (Item item : items) {
             totalWeight += item.getWeight();
         }
@@ -29,7 +29,7 @@ public class Suitcase {
     }
 
     public void printItems() {
-        for (Item item : items) {
+        for (Item item : this.items) {
             System.out.println(item);
         }
     }

@@ -19,9 +19,13 @@ public class Main {
         System.out.println();
         System.out.println("Shortest: " + room.shortest());
         System.out.println("");
-        for (Person person : room.getPersons()) {
-            System.out.println(person);
-
+//        for (Person person : room.getPersons()) {
+//            System.out.println(person);
+//
+//        }
+        while (!room.isEmpty()) {
+            System.out.println(room.take());
         }
+
     }
 }
